@@ -1,1 +1,1 @@
-# coarse_to_fine_prior_seg
+# RAP-Net: Coarse-to-Fine Multi-Organ Segmentation with Single Random Anatomical Prior
